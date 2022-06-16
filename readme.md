@@ -1,6 +1,6 @@
 # Setup for Angular Course
 
-###### Version 12.2.0.2
+###### Version 14.0.0.0
 
 1.  A recent version of Windows (10 or later) or macOS, with current system updates and:
     - at least 4 GB of RAM
