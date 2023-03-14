@@ -51,7 +51,9 @@
 4.  Node.js installed, **Version 14.x or 16.x**
 
     - Any Node version 14 or later is fine for this class, but Long-Term Support (LTS) versions are preferred, so we recommend using a 16.x LTS version.
-    - Please visit https://nodejs.org/ , and click the “16.15.1 LTS” (or similar) button below the “Download for [your operating system]” heading to download the installer file.
+    - ~~Please visit https://nodejs.org/ , and click the “16.15.1 LTS” (or similar) button below the “Download for [your operating system]” heading to download the installer file.~~
+    - Please install the appropriate version of npm version 16 for your OS provided here:
+      - https://nodejs.org/download/release/v16.10.0/
 
       - Run the installer, accepting all default settings.
 
