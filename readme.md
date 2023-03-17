@@ -27,6 +27,11 @@
 
       - https://code.visualstudio.com/download
         - Windows users, please select the **System Installer** if you are running as an Administrator.
+      - Please select the following options when running the installer on Windows:
+        - Add "Open with Code" action to Windows Explorer file context menu
+        - Add "Open with Code" action to Windows Explorer directory context menu
+        - Register code as an editor for supported file types
+        - Add to PATH
 
       > Note that Visual Studio Code is NOT the same application as Visual Studio. It is a free open-source lightweight text editor similar to Sublime Text, Atom, or Brackets. It is a small quick install and is now [the most popular development environment](https://insights.stackoverflow.com/survey/2019#development-environments-and-tools) according to the Stack Overflow Developer Survey Results. It was created by the same guy who created the Eclipse IDE.
 
@@ -53,6 +58,7 @@
     - Any Node version 14 or later is fine for this class, but Long-Term Support (LTS) versions are preferred, so we recommend using a 16.x LTS version.
     - ~~Please visit https://nodejs.org/ , and click the “16.15.1 LTS” (or similar) button below the “Download for [your operating system]” heading to download the installer file.~~
     - Please install the appropriate version of npm version 16 for your OS provided here:
+
       - https://nodejs.org/download/release/v16.10.0/
 
       - Run the installer, accepting all default settings.
